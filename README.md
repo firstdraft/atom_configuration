@@ -47,8 +47,7 @@ If you like, you can select a different theme. I use the built-in Atom Light in 
 
 ## Add Additional Keyboard Shortcuts
 
- - In Keybindings, find the section for your platform in [this gist](https://gist.github.com/BinaryMuse/621bf3e66a66876e4d78#file-sample-keybinds-cson) and paste it in.
- - Also, paste this:
+ - In Keybindings, paste this:
 
         'body':
           'cmd-ctrl-w': 'tabs:close-all-tabs'
