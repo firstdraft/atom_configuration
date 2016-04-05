@@ -32,7 +32,7 @@ Atom comes with some packages includes, which we need to tweak a little:
      This package makes it so that whenever you switch from Atom to Chrome, all of your changes to any open files are automatically saved. This is a huge help when we start working on 2, 5, or even 10 files at once.
 
  - Search for the "git-diff" package and in its settings check "Show Icons".
- - Search for the "tree-view" package and in its setting check "Auto Reveal".
+ - Search for the "tree-view" package and in its settings check "Auto Reveal".
 
 Furthermore, lets install some third party packages from the community. Click the "Install" tab on the left sidebar, and search and install:
 
