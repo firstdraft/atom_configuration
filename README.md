@@ -39,7 +39,7 @@ Furthermore, lets install some third party packages from the community. Click th
  - `Sublime-Style-Column-Selection` by bigfive: This allows you to hold <kbd>Option</kbd> (or <kbd>Alt</kbd> on Windows) while dragging your mouse to highlight vertically. Useful for changing a bunch of things on lines above and below one another at once.
  - `less-than-slash` by mrhanlon: This autocloses the most recently opened HTML tag when you start typing `</...`.
  - `atom-wrap-in-tag` by sanusart: This allows you to highlight some content and type <kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>W</kbd> to wrap it an HTML tag.
- - `emmet` by emmetio: This allows you to add an element and a class at once by typing, e.g., `h1.hero-heading` and then pressing <kbd>Tab</kbd>, which will expand to `<h1 class="hero-heading"></h1>`. **Note:** After you install Emmett, autocompletions that you used to press <kbd>Tab</kbd> for will now require you to press <kbd>Return</kbd> instead.
+ - `emmet` by emmetio: This allows you to add an element and a class at once by typing, e.g., `h1.hero-heading` and then pressing <kbd>Tab</kbd>, which will expand to `<h1 class="hero-heading"></h1>`. **Note: After you install Emmett, autocompletions that you used to press <kbd>Tab</kbd> for will now require you to press <kbd>Return</kbd> instead.**
  - `auto-indent` by griiin: This life-changing package allows you to press <kbd>Cmd</kbd>-<kbd>Shift</kbd>-<kbd>I</kbd> (<kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>I</kbd> on Windows) to fix indentation for the entire file you are working in, without having to select certain lines or dig around in the Edit menu.
   
 ## Themes
