@@ -23,7 +23,7 @@ Here are the settings that I like to use:
 
 Next, find the "Packages" tab on the left. Packages are plugins that add extra functionality to Atom, and developers are releasing new ones all the time.
 
-Atom comes with some packages includes, which we need to tweak a little:
+Atom comes with some packages included out of the box, which we need to tweak a little:
 
  - **MANDATORY:** Search for the package "autosave".
  
