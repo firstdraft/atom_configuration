@@ -13,11 +13,11 @@ After you've installed Atom, launch it, and then
  
 Here are the settings that I like to use:
 
-	- Uncheck “Exclude VCS Ignored Paths”
-	- Set a font size if you like.
-	- Check “Scroll Past End”
-	- Check “Show Indent Guide”
-	- Check “Soft Wrap”
+ - Uncheck “Exclude VCS Ignored Paths”
+ - Set a font size if you like.
+ - Check “Scroll Past End”
+ - Check “Show Indent Guide”
+ - Check “Soft Wrap”
 	
 ## Packages
 
@@ -27,7 +27,7 @@ Atom comes with some packages includes, which we need to tweak a little:
 
  - **MANDATORY:** Search for the package "autosave".
  
-     **After it comes up, click its "Settings" button. There should be a checkbox there to "Enable". This is different from the package itself (in the search results) being enabled or disabled. Check the "Enable" box inside of the package settings.** We may not have done this step together in class.
+     After it comes up, click its "Settings" button. There should be a checkbox there to "Enable". This is different from the package itself (in the search results) being enabled or disabled. Check the "Enable" box inside of the package settings. **We may not have done this last step together in class.**
      
      This package makes it so that whenever you switch from Atom to Chrome, all of your changes to any open files are automatically saved. This is a huge help when we start working on 2, 5, or even 10 files at once.
 
@@ -36,18 +36,12 @@ Atom comes with some packages includes, which we need to tweak a little:
 
 Furthermore, lets install some third party packages from the community. Click the "Install" tab on the left sidebar, and search and install:
 
- - Sublime-Style-Column-Selection by bigfive
- - less-than-slash by mrhanlon
- - atom-wrap-in-tag by sanusart
- - emmet by emmetio
+ - Sublime-Style-Column-Selection by bigfive: This allows you to hold <kbd>Option</kbd> (or <kbd>Alt</kbd> on Windows) while dragging your mouse to highlight vertically. Useful for changing a bunch of things on lines above and below one another at once.
+ - less-than-slash by mrhanlon: This autocloses the most recently opened HTML tag when you start typing `</...`.
+ - atom-wrap-in-tag by sanusart: This allows you to highlight some content and type <kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>W</kbd> to wrap it an HTML tag.
+ - emmet by emmetio: This allows you to add an element and a class at once by typing, e.g., `h1.hero-heading` and then pressing <kbd>Tab</kbd>. **Note:** After you install Emmett, autocompletions that you used to press <kbd>Tab</kbd> for will now require you to press <kbd>Return</kbd> instead.
+ - auto-indent by griiin: This life-changing package allows you to press <kbd>Cmd</kbd>-<kbd>Shift</kbd>-<kbd>I</kbd> (<kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>I</kbd> on Windows) to fix indentation for the entire file you are working in, without having to select certain lines or dig around in the Edit menu.
   
 ## Themes
 
 If you like, you can select a different theme. I use the built-in Atom Light in class. There are also lots of [community-provided themes](https://atom.io/themes/list?direction=desc&sort=downloads).
-
-## Add Additional Keyboard Shortcuts
-
- - In Keybindings, paste this:
-
-        'body':
-          'cmd-ctrl-w': 'tabs:close-all-tabs'
