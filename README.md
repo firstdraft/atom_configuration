@@ -27,7 +27,7 @@ Atom comes with some packages includes, which we need to tweak a little:
 
  - **MANDATORY:** Search for the package "autosave".
  
-     After it comes up, click its "Settings" button. There should be a checkbox there to "Enable". This is different from the package itself (in the search results) being enabled or disabled. Check the "Enable" box inside of the package settings. **We may not have done this last step together in class.**
+     After it comes up, click its "Settings" button. There is a checkbox there for "Enabled". This is different from the package itself (in the search results) being enabled. **Check the "Enabled" box inside of the package settings. We may not have done this last step together in class.**
      
      This package makes it so that whenever you switch from Atom to Chrome, all of your changes to any open files are automatically saved. This is a huge help when we start working on 2, 5, or even 10 files at once.
 
